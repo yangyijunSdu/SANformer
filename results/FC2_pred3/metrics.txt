@@ -1,0 +1,8 @@
+Performance Metrics
+====================
+RMSE: 0.002474
+MAE: 0.001525
+MAPE: 0.047794
+R2: 0.991237
+
+Total Predictions: 510
