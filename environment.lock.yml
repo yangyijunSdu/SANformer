@@ -4,15 +4,15 @@ channels:
   - nvidia
   - defaults
 dependencies:
-  - python=3.11
-  - pip
-  - numpy
-  - pandas
-  - scikit-learn
-  - matplotlib
-  - pytorch
-  - torchvision
-  - torchaudio
+  - python=3.11.11
+  - pip=25.0
+  - numpy=2.2.5
+  - pandas=2.2.3
+  - scikit-learn=1.6.1
+  - matplotlib=3.10.1
+  - pytorch=2.8.0.dev20250503
+  - torchvision=0.22.0.dev20250503
+  - torchaudio=2.6.0.dev20250503
   - pytorch-cuda=12.1
   - pip:
-      - tqdm
+      - tqdm==4.67.1
