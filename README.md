@@ -1,4 +1,4 @@
-# Multi-scale degradation forecasting of PEMFCs under non-stationary operating conditions：A novel spatio-temporal deep learning framework**
+# Multi-scale degradation forecasting of PEMFCs under non-stationary operating conditions：A novel spatio-temporal deep learning framework
 
 [![Paper](https://img.shields.io/badge/Paper-Renewable%20Energy-green.svg)](https://www.sciencedirect.com/science/article/pii/S0960148125018063)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.renene.2025.124142-blue.svg)](https://doi.org/10.1016/j.renene.2025.124142)
